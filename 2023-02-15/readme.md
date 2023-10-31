@@ -1,4 +1,10 @@
-# Title: Sharpening your saw before cutting down the tree -- Personal development environment (PDE)
+# Title:
+```
+
+Sharpening your saw before cutting down the tree
+   -- Personal development environment (PDE)
+
+```
 # Abstract:
 ```
 
