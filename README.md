@@ -1,3 +1,5 @@
+![Stochastic Heat Equation by Midjourney](./Images/chenle02_Stochastic_heat_equation.png)
+
 # Graduate Student Seminars by Le Chen
 
 Here is a list of the graduate student seminars that I have delivered in the past:
