@@ -11,5 +11,5 @@ Here is a list of the graduate student seminars that I have delivered in the pas
 1. Some images are generated using [Midjourney](https://www.midjourney.com/).
 2. ChatGPT
 
-# License:
-  Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License
+# [License](LICENSE):
+
