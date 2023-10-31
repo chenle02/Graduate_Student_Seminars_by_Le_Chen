@@ -7,9 +7,10 @@ Here is a list of the graduate student seminars that I have delivered in the pas
 3. [2023-02-15](./2023-02-15/readme.md):  Sharpening your saw before cutting down the tree -- Personal development environment (PDE)
 4. [2023-11-01](./2023-11-01/readme.md): Disorderly surface growth
 
-# Acknowledgments
+## Acknowledgments
 1. Some images are generated using [Midjourney](https://www.midjourney.com/).
 2. ChatGPT
 
-# [License](LICENSE.md):
+## License
 
+[CC-BY-SA 4.0](LICENSE.txt)
