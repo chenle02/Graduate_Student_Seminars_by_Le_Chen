@@ -15,14 +15,14 @@ Here is a list of the graduate student seminars that I have delivered in the pas
 
 ## Reference
 
-If you find this repository useful and , please cite it using the following BibTeX entry: 
+If you find this repository useful and want to reference to it, kindly cite it using the following BibTeX entry: 
 
-* Le Chen (2023) “Open slides for linear algebra”. GitHub & Zenodo. https://doi.org/10.5281/zenodo.10206966
+* Le Chen (2023) “Graduate Student Seminars by Le Chen”. GitHub & Zenodo. https://doi.org/10.5281/zenodo.10206966
 
 ```
 @misc{chen:23:graduate,
   author        = {Le Chen},
-  title         = {Graduate Student Seminars by Le Chen},
+  title         = {Graduate Student Seminars by {Le Chen}},
   month         = {nov},
   year          = {2023},
   publisher     = {GitHub \& Zenodo},
