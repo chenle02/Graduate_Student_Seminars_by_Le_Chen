@@ -17,3 +17,4 @@ fi
 pdftoppm -png -f 1 -r 600 -singlefile ../2021-09-27/Talk-LeChen-Graduate-Seminar-Auburn-2021-09-27.pdf 2021_09_Graduate_Seminar.png
 pdftoppm -png -f 1 -r 600 -singlefile ../2023-01-18/Talk-LeChen-Graduate-Seminar-Auburn_SHE_2023-01-18.pdf 2023_01_Graduate_Seminar.png
 pdftoppm -png -f 1 -r 600 -singlefile ../2023-02-15/Talk-LeChen-Graduate-Seminar-Auburn-2023-02-15.pdf 2023_02_Graduate_Seminar.png
+pdftoppm -png -f 1 -r 600 -singlefile ../2023-11-01/Talk-LeChen-Graduate-Seminar-Auburn_20231101.pdf 2023_11_Graduate_Seminar.png
